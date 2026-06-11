@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "Solo • Multi • Tempo Real",
+    "loading": "Carregando..."
+  },
+  "header": {
+    "nickname": "Apelido",
+    "multi": "Multi",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "Criar sala",
+    "join_room": "Entrar em sala",
+    "create_btn": "Criar",
+    "enter_btn": "Entrar",
+    "code_label": "Código da sala",
+    "waiting": "Aguardando segundo jogador...",
+    "share_link": "Compartilhar link",
+    "copy_code": "Código",
+    "copied": "Código copiado!",
+    "room_bar_title": "Sala:",
+    "room_bar_waiting": "Aguardando..."
+  },
+  "difficulty": {
+    "label": "Dificuldade:",
+    "easy": "Fácil",
+    "medium": "Médio",
+    "hard": "Difícil",
+    "expert": "Especialista",
+    "master": "Mestra"
+  },
+  "info": {
+    "errors": "Erros",
+    "time": "Tempo",
+    "best": "Recorde"
+  },
+  "toolbar": {
+    "undo": "Desfazer",
+    "erase": "Apagar",
+    "pencil": "Lápis",
+    "pencil_on": "ON",
+    "pencil_off": "OFF",
+    "hint": "Dica"
+  },
+  "actions": {
+    "new_game": "Novo Jogo",
+    "finish": "Concluí!",
+    "sound_on": "🔊 Som ligado",
+    "sound_off": "🔇 Som desligado",
+    "rematch": "Revanche",
+    "pause": "Pausar",
+    "resume": "Retomar"
+  },
+  "gameover": {
+    "win_solo": "Parabéns! Puzzle completo!",
+    "lose_errors": "3 erros! Tente novamente.",
+    "opponent_left": "Adversário saiu. Você ganhou!",
+    "stats_time": "Tempo",
+    "stats_errors": "Erros",
+    "stats_hints": "Dicas",
+    "stats_best": "Recorde"
+  },
+  "chat": {
+    "toggle": "Chat",
+    "placeholder": "Mensagem...",
+    "empty": "Nenhuma mensagem..."
+  },
+  "restart": {
+    "title": "Reiniciar partida",
+    "text": "Os dois jogadores receberão um novo puzzle.",
+    "label": "Dificuldade:",
+    "confirm": "Reiniciar",
+    "cancel": "Cancelar"
+  }
+}

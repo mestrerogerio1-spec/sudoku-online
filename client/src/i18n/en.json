@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "Solo • Multi • Real Time",
+    "loading": "Loading..."
+  },
+  "header": {
+    "nickname": "Nickname",
+    "multi": "Multi",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "Create room",
+    "join_room": "Join room",
+    "create_btn": "Create",
+    "enter_btn": "Enter",
+    "code_label": "Room code",
+    "waiting": "Waiting for second player...",
+    "share_link": "Share link",
+    "copy_code": "Code",
+    "copied": "Code copied!",
+    "room_bar_title": "Room:",
+    "room_bar_waiting": "Waiting..."
+  },
+  "difficulty": {
+    "label": "Difficulty:",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "expert": "Expert",
+    "master": "Master"
+  },
+  "info": {
+    "errors": "Mistakes",
+    "time": "Time",
+    "best": "Best"
+  },
+  "toolbar": {
+    "undo": "Undo",
+    "erase": "Erase",
+    "pencil": "Pencil",
+    "pencil_on": "ON",
+    "pencil_off": "OFF",
+    "hint": "Hint"
+  },
+  "actions": {
+    "new_game": "New Game",
+    "finish": "Done!",
+    "sound_on": "🔊 Sound on",
+    "sound_off": "🔇 Mute",
+    "rematch": "Rematch",
+    "pause": "Pause",
+    "resume": "Resume"
+  },
+  "gameover": {
+    "win_solo": "Congratulations! Puzzle complete!",
+    "lose_errors": "3 mistakes! Try again.",
+    "opponent_left": "Opponent left. You win!",
+    "stats_time": "Time",
+    "stats_errors": "Mistakes",
+    "stats_hints": "Hints",
+    "stats_best": "Best"
+  },
+  "chat": {
+    "toggle": "Chat",
+    "placeholder": "Message...",
+    "empty": "No messages..."
+  },
+  "restart": {
+    "title": "Restart game",
+    "text": "Both players will receive a new puzzle.",
+    "label": "Difficulty:",
+    "confirm": "Restart",
+    "cancel": "Cancel"
+  }
+}

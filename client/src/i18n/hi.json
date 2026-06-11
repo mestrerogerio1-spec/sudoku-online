@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "एकल • मल्टी • रियल टाइम",
+    "loading": "लोड हो रहा है..."
+  },
+  "header": {
+    "nickname": "उपनाम",
+    "multi": "मल्टी",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "कमरा बनाएं",
+    "join_room": "कमरे में शामिल हों",
+    "create_btn": "बनाएं",
+    "enter_btn": "शामिल हों",
+    "code_label": "कमरा कोड",
+    "waiting": "दूसरे खिलाड़ी की प्रतीक्षा हो रही है...",
+    "share_link": "लिंक साझा करें",
+    "copy_code": "कोड",
+    "copied": "कोड कॉपी किया गया!",
+    "room_bar_title": "कमरा:",
+    "room_bar_waiting": "प्रतीक्षा हो रही है..."
+  },
+  "difficulty": {
+    "label": "कठिनाई:",
+    "easy": "आसान",
+    "medium": "मध्यम",
+    "hard": "कठिन",
+    "expert": "विशेषज्ञ",
+    "master": "मास्टर"
+  },
+  "info": {
+    "errors": "गलतियाँ",
+    "time": "समय",
+    "best": "सर्वश्रेष्ठ"
+  },
+  "toolbar": {
+    "undo": "पूर्ववत करें",
+    "erase": "मिटाएं",
+    "pencil": "पेंसिल",
+    "pencil_on": "ON",
+    "pencil_off": "OFF",
+    "hint": "संकेत"
+  },
+  "actions": {
+    "new_game": "नया खेल",
+    "finish": "पूर्ण!",
+    "sound_on": "🔊 ध्वनि चालू",
+    "sound_off": "🔇 मौन",
+    "rematch": "पुनः मुकाबला",
+    "pause": "रोकें",
+    "resume": "जारी रखें"
+  },
+  "gameover": {
+    "win_solo": "बधाई हो! पहेली पूरी हुई!",
+    "lose_errors": "3 गलतियाँ! पुनः प्रयास करें।",
+    "opponent_left": "प्रतिद्वंद्वी चला गया। आप जीत गए!",
+    "stats_time": "समय",
+    "stats_errors": "गलतियाँ",
+    "stats_hints": "संकेत",
+    "stats_best": "सर्वश्रेष्ठ"
+  },
+  "chat": {
+    "toggle": "चैट",
+    "placeholder": "संदेश...",
+    "empty": "कोई संदेश नहीं..."
+  },
+  "restart": {
+    "title": "खेल पुनः आरंभ करें",
+    "text": "दोनों खिलाड़ियों को एक नई पहेली मिलेगी।",
+    "label": "कठिनाई:",
+    "confirm": "पुनः आरंभ",
+    "cancel": "रद्द करें"
+  }
+}

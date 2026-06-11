@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "Solo • Multi • Echtzeit",
+    "loading": "Laden..."
+  },
+  "header": {
+    "nickname": "Spitzname",
+    "multi": "Multi",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "Raum erstellen",
+    "join_room": "Raum beitreten",
+    "create_btn": "Erstellen",
+    "enter_btn": "Beitreten",
+    "code_label": "Raum-Code",
+    "waiting": "Warte auf zweiten Spieler...",
+    "share_link": "Link teilen",
+    "copy_code": "Code",
+    "copied": "Code kopiert!",
+    "room_bar_title": "Raum:",
+    "room_bar_waiting": "Warten..."
+  },
+  "difficulty": {
+    "label": "Schwierigkeit:",
+    "easy": "Leicht",
+    "medium": "Mittel",
+    "hard": "Schwer",
+    "expert": "Experte",
+    "master": "Meister"
+  },
+  "info": {
+    "errors": "Fehler",
+    "time": "Zeit",
+    "best": "Bestzeit"
+  },
+  "toolbar": {
+    "undo": "Rückgängig",
+    "erase": "Löschen",
+    "pencil": "Notizen",
+    "pencil_on": "EIN",
+    "pencil_off": "AUS",
+    "hint": "Tipp"
+  },
+  "actions": {
+    "new_game": "Neues Spiel",
+    "finish": "Fertig!",
+    "sound_on": "🔊 Ton an",
+    "sound_off": "🔇 Stumm",
+    "rematch": "Revanche",
+    "pause": "Pause",
+    "resume": "Fortsetzen"
+  },
+  "gameover": {
+    "win_solo": "Glückwunsch! Puzzle gelöst!",
+    "lose_errors": "3 Fehler! Nochmal versuchen.",
+    "opponent_left": "Gegner hat den Raum verlassen. Du gewinnst!",
+    "stats_time": "Zeit",
+    "stats_errors": "Fehler",
+    "stats_hints": "Tipps",
+    "stats_best": "Bestzeit"
+  },
+  "chat": {
+    "toggle": "Chat",
+    "placeholder": "Nachricht...",
+    "empty": "Keine Nachrichten..."
+  },
+  "restart": {
+    "title": "Spiel neustarten",
+    "text": "Beide Spieler erhalten ein neues Puzzle.",
+    "label": "Schwierigkeit:",
+    "confirm": "Neustarten",
+    "cancel": "Abbrechen"
+  }
+}

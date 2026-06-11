@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "单人 • 多人 • 实时",
+    "loading": "加载中..."
+  },
+  "header": {
+    "nickname": "昵称",
+    "multi": "多人",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "创建房间",
+    "join_room": "加入房间",
+    "create_btn": "创建",
+    "enter_btn": "进入",
+    "code_label": "房间号",
+    "waiting": "等待第二位玩家...",
+    "share_link": "分享链接",
+    "copy_code": "复制",
+    "copied": "已复制！",
+    "room_bar_title": "房间：",
+    "room_bar_waiting": "等待中..."
+  },
+  "difficulty": {
+    "label": "难度：",
+    "easy": "简单",
+    "medium": "中等",
+    "hard": "困难",
+    "expert": "专家",
+    "master": "大师"
+  },
+  "info": {
+    "errors": "错误",
+    "time": "时间",
+    "best": "最佳"
+  },
+  "toolbar": {
+    "undo": "撤销",
+    "erase": "擦除",
+    "pencil": "笔记",
+    "pencil_on": "开",
+    "pencil_off": "关",
+    "hint": "提示"
+  },
+  "actions": {
+    "new_game": "新游戏",
+    "finish": "完成！",
+    "sound_on": "🔊 音效开",
+    "sound_off": "🔇 静音",
+    "rematch": "再战",
+    "pause": "暂停",
+    "resume": "继续"
+  },
+  "gameover": {
+    "win_solo": "恭喜！谜题完成！",
+    "lose_errors": "3次错误！再试一次。",
+    "opponent_left": "对手已离开。你赢了！",
+    "stats_time": "时间",
+    "stats_errors": "错误",
+    "stats_hints": "提示",
+    "stats_best": "最佳"
+  },
+  "chat": {
+    "toggle": "聊天",
+    "placeholder": "消息...",
+    "empty": "暂无消息..."
+  },
+  "restart": {
+    "title": "重新开始",
+    "text": "两位玩家将收到一个新的谜题。",
+    "label": "难度：",
+    "confirm": "重新开始",
+    "cancel": "取消"
+  }
+}

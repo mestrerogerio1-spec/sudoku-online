@@ -1,0 +1,75 @@
+{
+  "app": {
+    "subtitle": "ソロ • マルチ • リアルタイム",
+    "loading": "読み込み中..."
+  },
+  "header": {
+    "nickname": "ニックネーム",
+    "multi": "マルチ",
+    "close": "✕"
+  },
+  "multiplayer": {
+    "create_room": "部屋を作成",
+    "join_room": "部屋に参加",
+    "create_btn": "作成",
+    "enter_btn": "参加",
+    "code_label": "部屋コード",
+    "waiting": "2人目のプレイヤーを待っています...",
+    "share_link": "リンクを共有",
+    "copy_code": "コード",
+    "copied": "コピーしました！",
+    "room_bar_title": "部屋:",
+    "room_bar_waiting": "待機中..."
+  },
+  "difficulty": {
+    "label": "難易度:",
+    "easy": "初級",
+    "medium": "中級",
+    "hard": "上級",
+    "expert": "達人",
+    "master": "マスター"
+  },
+  "info": {
+    "errors": "ミス",
+    "time": "時間",
+    "best": "ベスト"
+  },
+  "toolbar": {
+    "undo": "元に戻す",
+    "erase": "消去",
+    "pencil": "メモ",
+    "pencil_on": "ON",
+    "pencil_off": "OFF",
+    "hint": "ヒント"
+  },
+  "actions": {
+    "new_game": "新しいゲーム",
+    "finish": "完了！",
+    "sound_on": "🔊 サウンドオン",
+    "sound_off": "🔇 ミュート",
+    "rematch": "再戦",
+    "pause": "一時停止",
+    "resume": "再開"
+  },
+  "gameover": {
+    "win_solo": "おめでとう！パズル完成！",
+    "lose_errors": "3回のミス！再挑戦してください。",
+    "opponent_left": "相手が退出しました。あなたの勝ちです！",
+    "stats_time": "時間",
+    "stats_errors": "ミス",
+    "stats_hints": "ヒント",
+    "stats_best": "ベスト"
+  },
+  "chat": {
+    "toggle": "チャット",
+    "placeholder": "メッセージ...",
+    "empty": "メッセージはありません..."
+  },
+  "restart": {
+    "title": "ゲームを再開",
+    "text": "両方のプレイヤーに新しいパズルが配られます。",
+    "label": "難易度:",
+    "confirm": "再開",
+    "cancel": "キャンセル"
+  }
+}
