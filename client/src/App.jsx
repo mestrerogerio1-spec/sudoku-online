@@ -13,7 +13,7 @@ import {
 
 let _socket = null;
 function getSocket() {
-  if (!_socket) _socket = io('http://localhost:3001', { autoConnect: true, reconnection: true });
+  if (!_socket) _socket = io('https://sudoku-server.onrender.com', { autoConnect: true, reconnection: true });
   return _socket;
 }
 
