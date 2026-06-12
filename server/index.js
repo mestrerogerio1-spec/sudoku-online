@@ -216,4 +216,5 @@ const PORT = process.env.PORT || 3001;
 app.get('/', (req, res) => {
   res.send('Sudoku Server is running');
 });
+app.get('/', (req, res) => res.send('Sudoku Server is running'));
 server.listen(PORT, () => console.log(`Servidor na porta ${PORT}`));
