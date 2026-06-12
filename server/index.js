@@ -209,12 +209,18 @@ io.on('connection', (socket) => {
       }
     }
   });
-});
+}); // Fim do io.on('connection')
 
-const PORT = process.env.PORT || 3001;
+/* ── Rotas e Inicialização do Servidor ────────────────────────── */
 
+// Rota de saúde para testar no navegador se o servidor está vivo
 app.get('/', (req, res) => {
   res.send('Sudoku Server is running');
 });
-app.get('/', (req, res) => res.send('Sudoku Server is running'));
-server.listen(PORT, () => console.log(`Servidor na porta ${PORT}`));
+
+// IMPORTANTE: O Render exige a porta 3000 por padrão se process.env.PORT não existir
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log(`Servidor rodando com sucesso na porta ${PORT}`);
+});
