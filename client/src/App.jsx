@@ -9,7 +9,7 @@ import {
   Trophy, Users, Skull, PartyPopper,
   MessageCircle, Share2, Clipboard, Hourglass
 } from 'lucide-react';
-
+// deploy v2
 
 let _socket = null;
 function getSocket() {
