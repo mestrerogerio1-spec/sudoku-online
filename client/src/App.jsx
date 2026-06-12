@@ -11,10 +11,12 @@ import {
 } from 'lucide-react';
 // deploy v2
 
+// DEPOIS (correto)
 let _socket = null;
 function getSocket() {
-  if (!_socket) _socket = io('https://sudoku-server.onrender.com', { autoConnect: true, reconnection: true });
+  if (!_socket) _socket = io('https://sudoku-online-fphf.onrender.com', { autoConnect: true, reconnection: true });
   return _socket;
+}
 }
 
 /* ── Sons ─────────────────────────────────────────────────────── */
