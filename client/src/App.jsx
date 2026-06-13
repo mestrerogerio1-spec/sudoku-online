@@ -15,15 +15,15 @@
   let _socket = null;
 
   function getSocket() {
-    if (!_socket) {
-      _socket = io('https://sudoku-online-fphf.onrender.com', { 
-        autoConnect: true, 
-        reconnection: true 
-      });
-    }
-    return _socket;
+  if (!_socket) {
+    _socket = io('https://sudoku-online-fphf.onrender.com', { 
+      autoConnect: true, 
+      reconnection: true,
+      transports: ['websocket', 'polling'] // Garante a conexão direta sem caminhos relativos
+    });
   }
-
+  return _socket;
+}
   /* ── Sons ─────────────────────────────────────────────────────── */
   const AudioCtx = window.AudioContext || window.webkitAudioContext;
   let _actx = null;
